@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Welcome to LINING's repository.
+
 <!--
 **Gyeongmin27/Gyeongmin27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
